@@ -70,6 +70,3 @@ input.onButtonPressed(Button.B, function () {
 let enviado = 0
 radio.setGroup(111)
 enviado = 0
-basic.forever(function () {
-	
-})
